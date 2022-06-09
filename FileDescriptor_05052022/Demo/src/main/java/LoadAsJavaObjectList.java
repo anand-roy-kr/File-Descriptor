@@ -14,7 +14,7 @@ import java.time.format.DateTimeFormatter;
 import java.util.*;
 
 import static java.lang.System.out;
-
+//test comment
 public class LoadAsJavaObjectList {
 
     public static void main(String[] args) throws IOException {
